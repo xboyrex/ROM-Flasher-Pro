@@ -1,0 +1,20 @@
+# Exclude proprietary source from GitHub auto-generated archives
+app.py export-ignore
+*.py export-ignore
+*.pyw export-ignore
+*.pyc export-ignore
+requirements.txt export-ignore
+*.spec export-ignore
+*.cfg export-ignore
+*.toml export-ignore
+build/ export-ignore
+dist/ export-ignore
+bin/ export-ignore
+.venv/ export-ignore
+venv/ export-ignore
+__pycache__/ export-ignore
+
+# Binary assets
+*.exe binary
+*.ico binary
+*.png binary
