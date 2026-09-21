@@ -1,5 +1,4 @@
-``
-cd ~/ROM-Flasher-Pro && cat > README.md << 'EOF'
+
 <div align="center">
 
 <img src="logo.png" width="130" alt="ROM Flasher Pro"/>
