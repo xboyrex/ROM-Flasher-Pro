@@ -1,0 +1,57 @@
+# ==============================================
+# PROPRIETARY SOURCE — NOT FOR PUBLIC DISTRIBUTION
+# ==============================================
+app.py
+*.py
+*.pyw
+*.pyc
+*.pyo
+__pycache__/
+requirements.txt
+*.spec
+*.cfg
+*.toml
+Pipfile*
+poetry.lock
+
+# Build artifacts
+build/
+dist/
+bin/
+out/
+*.exe
+*.dll
+*.pyd
+*.so
+*.dmg
+*.msi
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+*.env
+secrets.*
+*.key
+*.pem
+
+# Temp
+tmp/
+temp/
+*.log
